@@ -43,4 +43,4 @@ $ boot2Docker ip => 192.168.59.103
 ```
 
 # Helps
-GDAL utilities : http://www.gdal.org/gdal_utilities.html
+GDAL utilities : http://www.gdal.org/gdal_utilities.html / (french version : http://gdal.gloobe.org/gdal/presentation.html)
